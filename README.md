@@ -6,20 +6,20 @@ An end-to-end data project exploring Airbnb listings in Berlin using a Modern Da
 
 ## Modern Data Stack: 
 
-### ❄️ Snowflake
-### ⚙️ dbt
-### 🐍 Python
-### 🧱 SQL
-### 📊 Preset
-
+#### ❄️ Snowflake
+#### ⚙️ dbt
+#### 🐍 Python
+#### 🧱 SQL
+#### 📊 Preset
+#
 
 ## ✅ Features
 
-ELT pipeline from raw to cleaned, analytical datasets
-Source freshness and schema testing using dbt
-Dimensional modeling: staging, intermediate, and mart layers
-Dashboard with KPIs, pricing heatmaps, and host analytics
-
+#### ELT pipeline from raw to cleaned, analytical datasets
+#### Source freshness and schema testing using dbt
+#### Dimensional modeling: staging, intermediate, and mart layers
+#### Dashboard with KPIs, pricing heatmaps, and host analytics
+#
 
 ![architecture](docs/architecture.png)
 
